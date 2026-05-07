@@ -4,7 +4,7 @@
 
 ---
 
-## 1. Прогнозирование цен на аренду жилья (`renta.ipynb`)
+## ML1. Прогнозирование цен на аренду жилья (`renta.ipynb`)
 
 **Инструменты и библиотеки:**  
 `pandas`, `numpy`, `matplotlib`, `seaborn`, `scikit-learn` (LinearRegression, DecisionTreeRegressor, PolynomialFeatures, train_test_split)
@@ -24,7 +24,7 @@
 
 ---
 
-## 2. Линейные модели с регуляризацией (`supervised_learning.ipynb`)
+## ML2. Линейные модели с регуляризацией (`supervised_learning.ipynb`)
 
 **Инструменты и библиотеки:**  
 `scikit-learn` (LinearRegression, Ridge, Lasso, ElasticNet, MinMaxScaler, StandardScaler, PolynomialFeatures), `numpy`, `pandas`, `matplotlib`
@@ -46,7 +46,7 @@
 
 ---
 
-## 3. Валидация и отбор признаков (`validation.ipynb`)
+## ML3. Валидация и отбор признаков (`validation.ipynb`)
 
 **Инструменты и библиотеки:**  
 `scikit-learn` (KFold, StratifiedKFold, GroupKFold, TimeSeriesSplit, permutation_importance), `optuna`, `shap`, `numpy`, `pandas`
